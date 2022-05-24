@@ -35,8 +35,12 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/Board2.h" />
+		<Unit filename="include/Player.h" />
+		<Unit filename="include/User.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Board2.cpp" />
+		<Unit filename="src/Player.cpp" />
+		<Unit filename="src/User.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

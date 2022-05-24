@@ -52,3 +52,7 @@ void Board::setPosition(char Osymbol, int x , int y)
 {
     board[x][y] = Osymbol;
 }
+int Board::GetBoardSize()
+{
+    return this->Bsize;
+}

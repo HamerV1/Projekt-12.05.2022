@@ -25,3 +25,31 @@
 	"Board2.h"
 	<iostream>
 
+1652966414 source:d:\superfolder\po-programowanieobiektowe\class\projekt12.05.2022\main\src\board2.cpp
+	"Board2.h"
+	<iostream>
+
+1652966364 d:\superfolder\po-programowanieobiektowe\class\projekt12.05.2022\main\include\board2.h
+
+1652970524 source:d:\superfolder\po-programowanieobiektowe\class\projekt12.05.2022\main\main.cpp
+	<iostream>
+	"Board2.h"
+	"Player.h"
+	"User.h"
+
+1652970118 d:\superfolder\po-programowanieobiektowe\class\projekt12.05.2022\main\include\player.h
+
+1652966972 d:\superfolder\po-programowanieobiektowe\class\projekt12.05.2022\main\include\user.h
+	<iostream>
+	<string>
+	"Player.h"
+	<conio.h>
+	<ctype.h>
+
+1652970114 source:d:\superfolder\po-programowanieobiektowe\class\projekt12.05.2022\main\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1652970268 source:d:\superfolder\po-programowanieobiektowe\class\projekt12.05.2022\main\src\user.cpp
+	"User.h"
+

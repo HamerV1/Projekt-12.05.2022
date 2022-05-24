@@ -13,6 +13,7 @@ class Board
         void displayBoard();
         void Reset();
         void setPosition(char Osymbol, int x , int y);
+        int GetBoardSize();
 
 };
 
